@@ -1,10 +1,10 @@
 package com.gfg.jbdl.domain;
 
 public class Employee extends Person{
-    public Employee() {
-        this.getBirthDate();
-
-    }
+//    public Employee() {
+//        this.getBirthDate();
+//
+//    }
 
 
     /*
